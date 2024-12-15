@@ -1,13 +1,11 @@
 # g-xp-pen-star-03-linux-mint
-Guide qui pourrait permettre de faire fonctionner la tablette graphique XP-PEN "Star 03" sous Linux Mint
-
 
 Ce tuto ne prend en compte que les tablettes graphiques XP-Pen Star 03 sur Linux Mint, il peut sans doute être adapté pour d'autre tablette ayant le même problème par contre. Je fais ce tuto car ma tablette graphique ne marche jamais sans OpenTabletDriver", l'ajouter résout le problème, mais le mode artiste m'oblige à forcer sur ma tablette pour une faible pression.
 
 #Requis :
-    Environnement sous X11
-    Éditeur de Texte
-    OpenTabletDriver (ne pourra pas être utilisé pour configurer la tablette)
+    Environnement sous X11.
+    Éditeur de Texte.
+    OpenTabletDriver (ne pourra pas être utilisé pour configurer la tablette).
 
 
 #0
@@ -52,3 +50,7 @@ Ce tuto ne prend en compte que les tablettes graphiques XP-Pen Star 03 sur Linux
 #8
     Si tout ce passe bien le stylet devrait faire bouger le curseur ! 
     De mon côté je ne peux pas configuer la tablette avec le configurateur par défaut de Linux Mint, si c'est aussi votre cas vous pourriez peut-être utiliser le logiciel "OpenTabletUI" : [https://github.com/Mainman002/Linux-OpenTabletUI].
+
+# --- Au cas ou.
+
+ Je ne suis pas un expert à ce sujet, donc si vous avez une erreur je ne pourrais sans doute pas vous aider.
