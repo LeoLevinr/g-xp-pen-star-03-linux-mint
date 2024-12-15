@@ -1,4 +1,4 @@
-# Utiliser la tablette XP-PEN "Star 03" sous Linux Mint en utilisant le driver par défaut
+# Utiliser la tablette XP-PEN "Star 03" sous Linux Mint en utilisant le driver par défaut.
 
 Ce tuto ne prend en compte que les tablettes graphiques XP-Pen Star 03 sur Linux Mint, il peut sans doute être adapté pour d'autre tablette ayant le même problème par contre. Je fais ce tuto car ma tablette graphique ne marche jamais sans OpenTabletDriver", l'ajouter résout le problème, mais le mode artiste m'oblige à forcer sur ma tablette pour une faible pression.
 
