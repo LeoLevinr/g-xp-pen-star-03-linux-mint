@@ -8,10 +8,10 @@ Ce tuto ne prend en compte que les tablettes graphiques XP-Pen Star 03 sur Linux
 - OpenTabletDriver (ne pourra pas être utilisé pour configurer la tablette).
 
 
-#0
+#0 :
     Ne pas brancher la tablette. (Rien de dangereux, juste un conseil pour plus tard.)
 
-# Préparations
+# Préparations.
 
 #1 :
     Ouvrir en sudo avec un éditeur de texte au choix le fichier "70-wacom.conf" dans le chemin "/usr/share/X11/xorg.conf.d/"
