@@ -9,7 +9,7 @@ Ce tuto ne prend en compte que les tablettes graphiques XP-Pen Star 03 sur Linux
 
 
 # Si OpenTabletDriver est installé :
-    Ne pas brancher la tablette. (Rien de dangereux, juste un conseil pour plus tard.)
+ Ne pas brancher la tablette. (Rien de dangereux, juste un conseil pour plus tard.)
 
 # Préparations.
 
