@@ -1,6 +1,6 @@
 # Utiliser la tablette XP-PEN "Star 03" sous Linux Mint en utilisant le driver par défaut.
 
-Ce tuto ne prend en compte que les tablettes graphiques XP-Pen Star 03 sur Linux Mint, mais il peut sans doute être adapté pour d'autre tablette ayant le même problème. 
+Ce guide ne prend en compte que les tablettes graphiques XP-Pen Star 03 sur Linux Mint, mais il peut sans doute être adapté pour d'autre tablette ayant le même problème. 
 
 
 # Requis :
