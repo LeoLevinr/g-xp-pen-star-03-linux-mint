@@ -33,7 +33,7 @@ Ce tuto ne prend en compte que les tablettes graphiques XP-Pen Star 03 sur Linux
 #3 :
     Redémarrer la session.
 
-# Si OpenTabletDriver est déjà installé. Utiliser la tablette graphique.
+# Si OpenTabletDriver est déjà installé.
 
 #4 :
     Lancer "otd-daemon".
