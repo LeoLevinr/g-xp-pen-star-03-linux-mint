@@ -6,7 +6,6 @@ Ce tuto ne prend en compte que les tablettes graphiques XP-Pen Star 03 sur Linux
 # Requis :
 - Environnement sous X11.
 - Éditeur de Texte.
-- OpenTabletDriver (ne pourra pas être utilisé pour configurer la tablette).
 
 
 #0 :
@@ -34,24 +33,24 @@ Ce tuto ne prend en compte que les tablettes graphiques XP-Pen Star 03 sur Linux
 #3 :
     Redémarrer la session.
 
+# Si OpenTabletDriver est déjà installé. Utiliser la tablette graphique.
+
 #4 :
-    Installer OpenTabletDriver.
-
-# Utiliser la tablette graphique.
-
-#5 :
     Lancer "otd-daemon".
 
-#6 :
+#5 :
     Brancher la tablette graphique.
 
-#7 :
+#6 :
     Fermer "otd-daemon".
 
-#8 :
-    Si tout ce passe bien le stylet devrait faire bouger le curseur ! 
-    De mon côté je ne peux pas configuer la tablette avec le configurateur par défaut de Linux Mint, si c'est aussi votre cas vous pourriez peut-être utiliser le logiciel "OpenTabletUI" : [https://github.com/Mainman002/Linux-OpenTabletUI].
+# Conclusion.
+
+#7 :
+    Si tout ce passe bien le stylet devrait faire bouger le curseur !
 
 # Au cas ou.
 
- Je ne suis pas un expert à ce sujet, donc si vous avez une erreur je ne pourrais sans doute pas vous aider.
+Le configurateur par défaut de Mint peu prendre un peu de temps avant que la tablette soit reconnu.
+
+Je ne suis pas un expert à ce sujet, donc si vous avez une erreur je ne pourrais sans doute pas vous aider.
